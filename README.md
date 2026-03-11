@@ -1,6 +1,6 @@
 #
 <h1 align="center">Hi 👋, I'm Snehal Dighore</h1>
-<h3 align="center">🚀 MCA Student | Aspiring MERN Stack Developer | Passionate about Clean Code & Real-World Problems</h3>
+<h3 align="center">🚀 MCA Student | Aspiring Full Stack Developer | Passionate about Clean Code & Real-World Problems</h3>
 
 <p align="center">
   MCA student with a strong foundation in <b>Java, React.js, Express,MongoDb,Node.js,C++, MySQL, and Web Development</b>.<br>
