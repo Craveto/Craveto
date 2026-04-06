@@ -3,7 +3,7 @@
 <h3 align="center">🚀 MCA Student | Aspiring Full Stack Developer | Passionate about Clean Code & Real-World Problems</h3>
 
 <p align="center">
-  MCA student with a strong foundation in <b>Java, React.js, Express,MongoDb,Node.js,C++, MySQL, and Web Development</b>.<br>
+  MCA student with a strong foundation in <b>Python, React.js, MERN Stack, Java , MySQL,SQL Server,Databricks, Azure , CI/CD and Web Development</b>.<br>
   Eager to contribute in building real-world projects and actively exploring the latest technologies.<br>
   Wants to contribute to innovative teams and expand knowledge in software development.
 </p>
@@ -22,10 +22,10 @@
   <tr>
     <td width="70%">
       <ul>
-        <li>🎓 <b>MCA Student</b> @ <b>VESIT, Mumbai University</b> (2024–Present) — CGPA: 9.43 </li>
+        <li>🎓 <b>MCA Student</b> @ <b>VESIT, Mumbai University</b> (2024–Present) — CGPA: 9.20(UPTO 3RD SEM) </li>
         <li>🎓 <b>BCA Graduate</b> from <b>Shri Shivaji Science College , Nagpur</b> — Score: 73.74</li>
-        <li>💻 Proficient in <b>Java, C++, React, Node.js, MySQL, Javascript, HTML, CSS, Express</b></li>
-        <li>🛠️ Tools: <b>Git/GitHub, VS Code, Android Studio, Eclipse, Figma, AWS</b></li>
+        <li>💻 Proficient in <b>pYTHON,Java, C++, React, Node.js, MySQL,SQL Server, Javascript, HTML, CSS, Express</b></li>
+        <li>🛠️ Tools: <b>Git/GitHub, VS Code, Android Studio, Eclipse, Figma,AZURE, AWS</b></li>
         <li>🌱 Currently learning advanced backend and system design concepts</li>
         <li>📬 Reach me: <a href="mailto:snehaldighore1335@gmail.com">snehaldighore1335@gmail.com</a></li>
       </ul>
