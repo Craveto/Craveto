@@ -1,9 +1,9 @@
 #
 <h1 align="center">Hi 👋, I'm Snehal Dighore</h1>
-<h3 align="center">🚀 MCA Student | Aspiring Full Stack Developer | Passionate about Clean Code & Real-World Problems</h3>
+<h3 align="center">🚀 Associate Software Engineer | Passionate about Clean Code & Real-World Problems</h3>
 
 <p align="center">
-  MCA student with a strong foundation in <b>Python, React.js, MERN Stack, Java , MySQL,SQL Server,Databricks, Azure , CI/CD and Web Development</b>.<br>
+  Was a MCA student with a strong foundation in <b>Python, React.js, MERN Stack, Java , MySQL,SQL Server,Databricks, Azure , CI/CD and Web Development</b>.<br>
   Eager to contribute in building real-world projects and actively exploring the latest technologies.<br>
   Wants to contribute to innovative teams and expand knowledge in software development.
 </p>
